@@ -1,0 +1,1227 @@
+- Manual :
+  "Click on the dot next to the title to open the document. don't touch all the files with // and [ UI ]
+  "
+  - 1. Introduction
+    "Koala is the ultimate pocket-sized sampler. Record anything with your phone’s mic instantly or import your own sounds. Use Koala to create beats with those samples, add effects and create a track!
+    Koala’s super intuitive interface helps you make a tracks in a flash, there is no brake pedal. You can also resample the output of the app back into the input, through the effects, the sonic possibilities are endless. 
+    You wanna get Koala's super powers ? Let's Read The F* Manual !
+    "
+  - 2. Général Overview
+    - 2.1. Sample
+      - { PICS }
+    - 2.2. Sequence
+      - { PICS }
+    - 2.3. Perform
+      - { PICS }
+  - 3. Basic ops (quick start guide with essential tips) 
+    - Gesture
+      - Swap pads
+      - Slide up to trash
+      - Copy
+  - 4. Sample
+    - 4.1. Introduction
+      "Koala is a powerful yet easy to use sampler. It allows you to sample up to 64 sounds from external sources (microphone of your device, external sound card via usb). 
+      Koala also allows you to re-sample, import audio files or convert video to sound.
+      The sampler in koala can be used stand alone, possibilites are endless, let's make music with the the wonderful world of sounds around you !
+      "
+    - 4.2. Overview
+      - { PICS } interface + Basic explanations
+    - 4.3. Basic ops
+      - 4.3.1. Sample Source
+        "The first thing you have to do to add a sound in Koala Sampler is selecting a source. Here are the differents methods to do it.
+        "
+        - 1. Monitoring
+          "Before everything, let's monitor to hear what comes in..
+          "
+          - { PICS }
+          - Click the "MONITOR" button to ear the entry signal. 
+            "Note : The monitor button appears as a headphones pictogram. 
+            "
+          - Be careful : only activate "MONITOR" if you have headphones connected to your device, unless you'll ear big larsen !
+        - 2. Select source
+          "Koala is able to use differents sources to sample."
+          - { PICS }
+          - Click the "SOURCE" button to open a window where you can select the available sources.
+            "Note : The source button appears under the name of the mode in which it is configured (MIC-RESAMPLE-IMPORT) 
+            "
+          - RECORD FROM MIC
+            "This source use the internal microphone of your device as a source."
+          - RESAMPLE FROM APP
+            "This source use the master of the app as a source.
+            "
+          - IMPORT FILE
+            "This source use the folders of your device to load sounds.
+            "
+        - // source
+          - mic
+          - configuration via usb 
+            "ex: connectivity audio "record player to koala" w audio interface
+            "
+          - resample
+          - import
+          - other
+        - // monitoring
+        - -- Links
+          - 4 -> Connectivity chapter
+      - 4.3.2. Sampling a sound
+        "There is differents way to add samples in Koala Sampler. Let's see how it works !
+        "
+        - 1. Sample from microphone
+          "You can use the microphone of your device as a source.
+          "
+          - { PICS }
+          - Click the "SOURCE" button, then choose "RECORD FROM MIC". 
+            "Note : the MIC source is the default mode."
+          - The source button now appears as "MIC". 
+          - Press an empty pad and it will sample from the microphone.
+        - 2. Sample from usb interface
+          "If your device is connected to a USB interface, Koala use it automatically as a source. The "MIC" source on Koala is now your external source.
+          "
+          - { PICS }
+          - Click the "SOURCE" button, then choose "RECORD FROM MIC". 
+            "Note : the MIC source is the default mode"
+          - The source button now appears as "MIC". 
+          - Press an empty pad and it will sample from your USB interface.
+        - 3. Re-sample from app
+          "You can use the master of the app as a source.
+          "
+          - { PICS }
+          - Click the "SOURCE" button, then choose "RESAMPLE FROM APP". 
+          - The source button now appears as "RESAMPLE". 
+          - Press any empty pad + play any sound, it will sample from the master of the app.
+        - // resample loop
+      - 4.3.3. Loading a sample
+        "You can import almost anything in Koala Sampler. A good way to use your own drum kits, sample packs, or sound of a video.
+        "
+        - 1. Import files
+          "Koala is able to import audio files from your device folders, many formats are supported (WAV, MP3, M4A, FLAC). 
+          "
+          - { PICS }
+          - Click the "SOURCE" button, then choose "IMPORT FILES". 
+          - The source button now appears as "IMPORT". 
+          - Press any empty pad and it will open a window with the folders on your device.
+          - { PICS }
+          - Click the "MENU" button, then choose "IMPORT AUDIO". 
+          - The source button now appears as "IMPORT". 
+          - Press any empty pad and it will open a window with the folders on your device.
+          - Note : On iOS devices formats like AIFF, CAF, WAVPACK are supported too, and you can try any other format to see if it works !
+        - 2. Convert a video to sample.
+          "A video screen shot, a video in your gallery, etc... Converting any video in a sample never had been so easy in a sampler ! Let's see how to do it.
+          "
+          - { PICS }
+          - Click the "MENU" button, then choose "IMPORT VIDEO". It will open a window to select videos on your device.
+          - By clicking on a file, you can preview the video before adding.
+          - Select a video to import, then click on "Use" to convert the video.
+          - Let Koala process and that's it ! Your video is converted to a sample and Koala put it in the first empty pad.
+            "Note : if you have toggled on "Hold to record" in the general settings, you press the pas as long as you want the sample last. You can also slide up the pad to hold record.
+            "
+        - // Import audio
+        - // Import video
+      - 4.3.4. File picker
+        "Koala is able to import audio files from your device folders, many formats are supported (WAV, MP3, M4A, FLAC). 
+        "
+        - 1. Open the file picker
+          - { PICS }
+          - Click "FILE PICKER" at the bottom right, it opens a window with your favorite folders.
+            "Note : the file picker button appears under the name of the current selected folder."
+        - 2. Add a favorite folder
+          - { PICS }
+          - Click "ADD LOCATION", it opens a navigation folder on your device.
+          - Select a folder and click "OK".
+          - The folder is now in your favorites.
+        - 3. Load a sound from a folder
+          - { PICS }
+          - Select one of your favorite folder containing your sounds.
+          - Click the audio files to have a preview.
+          - Drag and drop on a pad.
+          - It's ready to use !
+        - 4. Load a sound from Koala Songs
+          - { PICS }
+          - Select the "SONGS" folder, you are now in your Koala backups.
+          - Select a song, it opens a preview of it, you can now access all the pads of this project.
+          - Press the pads to have a preview.
+          - Drag and drop on a pad in your current project.
+        - 5. Load a bank from Koala Songs
+          - { PICS }
+          - Select the "SONGS" folder, you are now in your Koala backups.
+          - Select a song, it opens a preview of it, you can now access all the pads of this project.
+          - Press the pads to have a preview.
+          - Select a bank and click on the "LOAD BANK" button.
+          - Be careful !! When you load a bank it replaces the actual pads so keep in mind selecting an empty bank in your project before loading.
+        - // file picker
+      - 4.3.5. Editing a sample
+        "From simple editing to extreme, Koala has more than one trick up its sleeve. Let's have a tour.
+        "
+        - 1. Basic editing
+          "These are Koala basics editing to know by heart.
+          "
+          - { PICS }
+          - Select the pad you want to edit by pressing it.
+            "Note : when you adjust the params, your sample is sometimes too short so you can't hear slight modification, try to play repeatedly and turn the knobs !
+            "
+          - { PICS }
+          - Hold "VOL" and slide up or down to adjust the volume of your sample.
+          - { PICS }
+          - Hold "PITCH" and slide up or down to adjust the pitch of your sample.
+          - { PICS }
+          - Hold "PAN" and slide up or down to adjust the panoramic of your sample.
+          - { PICS }
+          - Click "DELETE" to erase the sound. A confirmation window will open.
+          - Click "Ok" to confirm.
+        - 2. Copy a sample
+          "As Koala is like a scrap book you often need to make copies of your samples before iterating with.
+          "
+          - { PICS }
+          - Just drag and drop your sample to an empty pad, your copy's done !
+        - 3. Merge samples
+          "There is two ways to merge samples in Koala, mixing the sounds or adding to the end.
+          "
+          - { PICS }
+          - Drag and drop your sample to an already used pad.
+          - Click "Mix" to mix the 2 sources and create a new sound.
+            "Note : All the parameters you set on your samples are kept for creating the new sound, you can explore around the different editing possibilities to create unique sounds !
+            "
+          - { PICS }
+          - Drag and drop your sample to an already used pad.
+          - Click "Add to end", you now have a new sound composed of your 2 previous samples that are played one after the other.
+        - 4. Sample editor
+          "All the ways to tweak the sound of your samples in Koala."
+          - { PICS }
+          - Open the sample editor by clicking "EDIT"
+          - { PICS }
+          - Use the arrows to navigate the editing menu.
+          - { PICS }
+          - Click "ONE SHOT" to activate the one shot mode, now the sample plays whole when you press a pad.
+            "Note : One shot mode can be set by default in the settings.
+            "
+          - { PICS }
+          - Click "REVERSE" to play the sound backward.
+          - { PICS }
+          - Click "LOOP" to play the sample in loop.
+            "You can create your own synths #koala-protips
+            "
+          - { PICS }
+          - Hold "ATTACK" and slide left or right to adjust the attack of your sample.
+            "Note : When you're in loop mode, a very high attack level makes the sound increase slightly. It makes your looped sample sweater ;)
+            "
+          - { PICS }
+          - Hold "RELEASE" and slide left or right to adjust the release of your sample.
+            "Note : When you're in loop mode, a very high release level makes the sound discrease slightly. Try it with a very short looped sample !
+            "
+          - { PICS }
+          - Hold "TONE" and slide left or right to adjust the filter enveloppe on your sample.
+            "Note : The left is low pass filtering, the right high pass.
+            "
+        - 5. Trim samples
+          "Adjust the start and end points of your samples.
+          "
+          - Open the sample editor by clicking "EDIT", you have now a window with the waveform of your sample.
+          - { PICS }
+          - Zoom in and out the waveform with two fingers. 
+            "Note : Koala Sampler is extremely precise, you'll see what's a sharp waveform !
+            "
+          - { PICS }
+          - To adjust the starting point, click in the left part of the waveform and move it.
+            "Note: you can play your pad while you adjust the start so you can hear the way you like it."
+          - { PICS }
+          - To adjust the ending point, click in the right part of the waveform and move it.
+        - 6. Choke samples
+          "With Koala Sampler, you can put samples in choke groups so that each sample stops the playback of the previous sample triggered in the same group. There are 6 choke groups at all.
+          ex : put an open hi-hat and a closed one in a group and let them cutting each other !
+          "
+          - Open the sample editor by clicking "EDIT" and select "CHOKE: OFF"
+          - { PICS }
+          - Clicking the "CHOKE" button open a selection window with six group numbers.
+          - { PICS }
+          - To select a choke group, click the number you wanna put your sample in.
+          - { PICS }
+          - Choose "OFF" to remove samples from groups.
+        - 7. Editing tools
+          "More professional tools are available in Koala, you can name, normalize, crop your sample and even more !
+          "
+          - Open the sample editor by clicking "EDIT" and select "TOOLS"
+          - { PICS }
+          - Click "TOOLS", that opens a selection window with the tools.
+          - { PICS }
+          - 1/ Name a sample
+            - Open a window where you can put a name, click "LABEL".
+            - Name your sample and click "Ok"
+            - The name you gave to your sample will be displayed on the pad.
+          - { PICS }
+          - 2/ Crop a sample
+            - To cut everything before the starting point and after the ending point, click "CROP"
+              "Note : this action is destructive, you can go back so make a copy of your sample before trying"
+          - { PICS }
+          - 3/ Normalize a sample
+            - To normalize your sound, click "NORMALIZE"
+              "Note : this action is destructive, you can go back so make a copy of your sample before trying"
+          - { PICS }
+          - 4/ Trim silence
+            - To remove all the silences in your sample, click "TRIM SILENCE"
+              "Note : this action is destructive, you can go back so make a copy of your sample before trying"
+          - { PICS }
+          - 5/ Make mono
+            - To open a window to select which channels you want to use, click "MAKE MONO".
+              "Note : this action is destructive, you can go back so make a copy of your sample before trying
+              "
+          - { PICS }
+          - 6/ Bounce
+            - To bounce your sample the way it is currently, click "BOUNCE"
+              "Note : all current parameters are used for the bounce, this action is destructive, you can go back so make a copy of your sample before trying
+              "
+          - { PICS }
+          - 7/ Export
+            - To export your sample, click "EXPORT", then choose "Raw sample" or "Edited sample".
+        - // pads
+        - // pads bank
+        - // vol
+        - // pitch
+        - // pan
+        - // delete
+        - // edit
+          - // one shot (mode trigger)
+          - // reverse
+          - // loop
+          - // attack
+          - // release
+          - // tone
+          - // choke
+          - // stretch
+            - // duration
+            - // style
+            - // preview
+            - // ok
+          - // tools
+            - // label
+            - // crop
+            - // normalize
+            - // trim silence
+            - // auto-chop
+              - // style
+              - // nb of chops
+              - // chop visualiser + marker
+              - // keep original
+              - // choke group
+              - // oneshot
+              - // playthtru
+              - // cancel
+              - // chop
+            - // split stem
+              - // select stem(s)
+                - drum
+                - vocal
+                - bass
+                - other
+              - // merge selected
+              - // cancel
+              - // split
+            - // make mono
+              - L
+              - L+R
+              - R
+              - cancel
+            - // bounce
+            - // export
+              - raw sample
+              - edited sample
+              - cancel
+          - 
+          - 
+    - 4.4. Split stems
+      - This function gives you the ability to extract up to 4 instrument out of sample.
+        "Note : By default this is not available, see how to activate in the extras setting
+        "
+      - Open the sample editor by clicking "EDIT" and select "TOOLS"
+      - { PICS }
+      - To open the split stems window, click "SPLIT STEMS".
+      - { PICS }
+      - To select the channels, simply click on it to activate or not. You can recognise an active voice as it is written in white on a flashy blue background.
+        "You can extract 4 types of channel, the drums, the vocals, the bass and others (synths).
+        "
+      - { PICS }
+      - To create a unique new sample with the channel(s) you selected, toogle "MERGE SELECTED" on.
+        "By default, Koala Sampler creates as many new samples as the number of channels you have selected.
+        "
+      - { PICS }
+      - Click "SPLIT" and lets process. 
+        "The result is placed on the first(s) empty pad(s) after the original one."
+    - 4.5. Samuraï ops #SAMURAÏ
+      - 4.5.1. Time stretch a sample
+        "Imagine if you can turn music into chewing gum? Hmmm, yeah, your Samuraï Koala think he can do it... He worked so much his sound martial arts he became very elastic !
+        "
+        - 1. Understand the time-stretching
+          - Time-stretching is a digital audio effect whose purpose is to shorten or lengthen the duration and/or tempo of a sound recording without changing its pitch.
+        - 2. Find the time stretch function
+          - { PICS }
+          - Open the sample editor by clicking "EDIT" and navigate with the arrows until you find "STRETCH"
+        - 3. Activate time stretch 
+          - { PICS }
+          - Click "Stretch", you can now see a new field with red background at the top of the waveform.
+          - Once the time stretching activated, the looping points (start/end) of your sample sticks to your project BPM.
+        - 4. Set a time stretch duration
+          - To let Koala calculate the time-stretch, you have to define a stretch duration sample, the basic unit is the BEAT, and a BAR is 4 beats of course !
+          - The time stretch duration represents how long you want your sample to play.
+            "Note : Remember, now your sample stick to the project bpm."
+          - { PICS }
+          - a. Click the down arrow in the field red background.
+            "Note : the TIMESTRETCH window pops !"
+          - { PICS }
+          - b. In the "duration: XX BEATS" field, click the down arrow to open a drop-down menu.
+          - { PICS }
+          - c. Select a duration
+            "Note : you can choose 1 BEAT, 2 BEATS, 1 BAR, 2 BARS, 4 BARS, 8 BARS, 16 BARS or CUSTOM modes, try differents and hear the result, you can change the time stretch setting after.
+            "
+          - { PICS }
+          - d. Click "Preview" to hear if you like the result.
+          - { PICS }
+          - e. Click "OK" to process time stretch.
+        - 5. Select a stretching algorithm
+          - { PICS }
+          - a. Click the down arrow in the field red background.
+            "Note : the TIMESTRETCH window pops !"
+          - { PICS }
+          - b. Select an algorithm
+            "Note : you can choose MODERN, RETRO, BEATS and REPITCH. Try differents and hear the result, you can change the time stretch setting after.
+            "
+          - { PICS }
+          - d. Click "Preview" to hear if you like the result.
+          - { PICS }
+          - e. Click "OK" to process time stretch.
+        - 6. Description of stretch algorithms
+          - Modern - Made for complex songs with polyphonic material.
+          - Retro - Emulate classic granular time-stretch
+          - Beats - Prioritises the preservation of transients, so you get punchy sound.
+          - Repitch - Play the sound the way it should physically.
+        - // stretch
+          - // duration
+          - // style
+          - // preview
+          - // ok
+      - 4.5.2. Auto-chop
+        "You need to go straight with sample trimming ? Let Koala auto-chop samples for you, 
+        "
+        - 1. Overview
+        - 2. Open the auto-chop
+          - { PICS }
+          - Open the sample editor by clicking "EDIT" and navigate with the arrows until you find "TOOLS"
+          - { PICS }
+          - Click "AUTOCHOP" and the AUTOCHOP window pops.
+        - 3. Choose an auto-chop type
+          "There are 3 types available, they determine how Koala will chop your sample."
+          - Transients - Koala will put the cutting markers on the transiants
+          - Equal - Koala will divide mathematically
+          - Lazy - Koala plays the sound and let you do the job
+          - The selected mode appears with flashy blue background
+        - 4. Set a number of chops
+          - { PICS }
+          - Slide the bar to adjust the number of chops you want.
+        - 5. Add markers
+          - { PICS }
+          - In the waveform visualizer, you can add or remove red markers simply clicking in the bottom part of the waveform.
+        - 6. Preview chops
+          - { PICS }
+          - In the waveform visualizer, you can preview your chops simply clicking the part in the waveform.
+        - 7. Set parameters and export chops
+          - { PICS }
+          - Keep original
+            "Preserve the original pad when exporting chop"
+          - Toggle off if you want to wipe the original sample.
+          - { PICS }
+          - Choke Group
+          - Choose a group if you want to place your chops in.
+          - { PICS }
+          - One Shot
+            "Will play the sample one shot."
+          - Toggle off to desactivate.
+          - { PICS }
+          - Playthru
+            "Will create chops long from each marker to the sample end.
+            "
+          - Toggle off to desactivate.
+          - { PICS }
+          - Chop
+            "Process the auto-chop
+            "
+          - Click "CHOP"
+        - 8. Cancel operations
+          - Really ? --> Click "CANCEL"
+        - // auto-chop
+          - // style
+          - // nb of chops
+          - // chop visualiser + marker
+          - // keep original
+          - // choke group
+          - // oneshot
+          - // playthtru
+          - // cancel
+          - // chop
+      - 4.5.3. Pro-tips
+        "To Complete...
+        "
+        - extreme TS technics
+        - Timestretch + Autochop
+        - granular sampling
+        - creating a synth
+    - [ UI ]
+      - // source
+        - mic
+        - configuration via usb 
+          "ex: connectivity audio "record player to koala" w audio interface
+          "
+        - resample
+        - import
+        - other
+      - // monitoring
+      - // vol
+      - // pitch
+      - // pan
+      - // delete
+      - // edit
+        - // one shot (mode trigger)
+        - // reverse
+        - // loop
+        - // attack
+        - // release
+        - // tone
+        - // choke
+        - // stretch
+          - // duration
+          - // style
+          - // preview
+          - // ok
+        - // tools
+          - // label
+          - // crop
+          - // normalize
+          - // trim silence
+          - // auto-chop
+            - // style
+            - // nb of chops
+            - // chop visualiser + marker
+            - // keep original
+            - // choke group
+            - // oneshot
+            - // playthtru
+            - // cancel
+            - // chop
+          - // split stem
+            - // select stem(s)
+              - drum
+              - vocal
+              - bass
+              - other
+            - // merge selected
+            - // cancel
+            - // split
+          - // make mono
+            - L
+            - L+R
+            - R
+            - cancel
+          - // bounce
+          - // export
+            - raw sample
+            - edited sample
+            - cancel
+        - 
+        - 
+      - // pads
+      - // pads bank
+      - 
+      - // file picker
+  - 5. Sequence
+    - 5.1. Introduction
+      "Koala is a powerful yet easy to use sequencer. It allows you to create up to 32 patterns.
+      The pattern lenght is up to 64 bars, so you can litterally compose hours of music ! 
+      The sequencer is really high resolution.
+      "
+    - 5.2. Overview
+      - { PICS } interface + Basic explanations
+    - 5.3. Basic ops
+      "You want to be comfy creating your pattern ? With this instructions, Koala won't have secrets for you anymore.
+      "
+      - 5.3.1. Survival knowledge
+        "This is the "Need to know" to start using Koala's sequencer.
+        "
+        - 1. What is a pattern ?
+          - A pattern consists of a grid on which you can place events (triggers) that you can play in loop.
+            "Note : With Koala you can record patterns but you'll need the "Piano Roll" function to see the grid, this is available with the #SAMURAÏ extension.
+            "
+          - { PICS } / image of a pattern grid
+          - All pattern have a lenght (1 BAR, 2 BARS, etc...) and a number of beats/bar (2, 3, 4, 5, etc...).
+          - { PICS } / image of a pattern grid containing events 
+          - When you record a pattern, playing pads will place triggers in the grid. A soon as the pattern reach its looping point, your hear what you recorded.
+        - 2. Record / play a pattern
+          "The play/record buttons possibly appears at differents places in the SEQUENCER, it's always the same way to use it.
+          "
+          - { PICS }
+          - Play/Stop a pattern
+          - Click "PLAY"
+          - { PICS }
+          - Record a pattern
+          - Click "RECORD" and press pads
+          - { PICS } / img "PLAY vs REC" + "Stop" pictogram
+          - 2 ways stopping a recording
+          - Click "PLAY", the playback stops.
+          - Click "RECORD", the recording stops but the pattern still playback.
+          - { PICS }{ PICS } / img sequence
+          - Ex : if you have a pattern of 1 BAR and 4 beats/bar, play a kick sample pad on the 1st and 3rd beats, then a snare sample pad on the 2nd and the 4th beats. Gongrats, you've made your 1st Boom Bap !
+        - 3. Undo
+          - { PICS }
+          - Click "UNDO"
+          - When the last event (trigger) you recorded dont fit your pattern, you can cancel your lasts operations.
+          - It's possible to click once or several times to undo up to all events of your last recording.
+        - 4. Pattern banks
+          "You have 4 banks of 8 patterns, so up to 32 patterns
+          "
+          - { PICS }
+          - Use the narrows to navigate the banks.
+        - 5. Set a pattern lenght
+          "Note : the pattern lenght button possibly appears at differents places in the SEQUENCER, it's always the same way to use it.
+          "
+          - { PICS }
+          - Click "PATTERN LENGTH" to open the lenght settings.
+          - { PICS }
+          - Click "DOUBLE UP" to double the current value.
+          - Open the pattern lenth 
+          - { PICS }
+          - Click "+" or "-" to add or remove a BAR
+        - 6. Adjust the tempo
+          "Different ways to set the tempo of your project. You can change the bpm while you're playing a pattern.
+          "
+          - { PICS }
+          - Click 'BPM" to open the window
+          - { PICS }
+          - Tap tempo
+          - press "TAP" repeatedly and Koala will find the BPM in your heart.
+          - { PICS }
+          - Tap + / -
+          - Click "+" or "-" to modify the tempo unit by unit.
+          - Fast BPM
+          - { PICS }
+          - Hold "BPM" and slide right or left until you find the right setting.
+        - 7. Adjust the number of beats / bars
+          "You can change the bars time signature of your projects. 
+          "
+          - { PICS }
+          - Click 'BPM" to open the window
+          - { PICS }
+          - Hold and slide "BEAT PER BAR" to set your number.
+        - 8. Activate the metronome
+          "To hear where the beats at and play in rhythm, you need this crucial companion.
+          "
+          - { PICS }
+          - Click "METRONOME", the button is illustrated by a metronome pictogram
+            "Note : when metronome is on, the pictogram appears with flashy blue background
+            "
+      - 5.3.2. Edit patterns
+        "As Koala is like a scrap book you often need to make copies of your patterns before iterating with."
+        - 1. Copy a pattern
+          - { PICS }
+          - Just drag and drop your pattern to an empty slot, your copy's done !
+        - 2. Merge patterns
+          "There is two ways to merge patterns in Koala, mix or add to the end.
+          "
+          - { PICS }
+          - Drag and drop your pattern to an already used one.
+          - Click "Mix" to mix the 2 sources and create a new pattern.
+            "Note : All the parameters you set on your patterns are kept for creating the new one.
+            "
+          - { PICS }
+          - Drag and drop your pattern to an already used one.
+          - Click "Add to end", you now have a new pattern composed of your 2 previous ones played one after the other.
+        - 3. Delete a pattern
+          - { PICS }
+          - Select the pattern you want to delete.
+          - Click " CLEAR", then click "OK"
+          - { PICS }
+          - Hold the pattern you want to delete and slide up to the TRASH pop up.
+      - 5.3.3. Add swing
+        "Adding swing consists in shifting the off-beats
+        "
+        - { PICS }
+        - Click 'BPM" to open the bpm window
+        - { PICS }
+        - Adjust the swing
+        - Click or Slide "SWING" until you get the value you want
+        - { PICS } Grid with illustration of the swing
+      - 5.3.4. Go no quantize !
+        "You've eaten a Jay Dee donuts at breakfast ? Now, you feel like your beats need more groove, no panic Koala handle it !
+        "
+        - { PICS }
+        - What is quantization ?
+        - Quantization is a time correction of what you record in the sequencer.
+        - Go back to our 1 BAR pattern, its default quantization in Koala Sampler is 1/16. 
+          "With the Piano Roll, you can set several quantizations. Only available with #SAMURAÏ extension.
+          "
+        - That means, your BAR is divided in 16 part called steps.
+        - { PICS }
+        - Click 'BPM" to open the bpm window
+        - { PICS }
+        - Toggle OFF "QUANTIZE", now there's no quantisation anymore you record in real time !
+      - export
+    - 5.4. Keyboard mode
+      "To trigger your samples, you can use the conventional pads or the keybord mode. There are 3 modes giving you ability to play your samples chromatically, turn any sound into a synth !
+      "
+      - 5.4.1. Open the mode selector.
+        "The keybord button possibly appears at differents places in the SEQUENCER, it's always the same way to use it.
+        "
+        - { PICS }
+        - Click "KEYBOARD" and choose a pad, the selector pops. 
+          "Note : the pictogram appears with flashy blue background,
+          "
+      - 5.4.2. Select a mode
+        - { PICS }
+        - Click the down arrow next to "KEYBOARD", then choose a mode :
+        - - Grid mode
+          "Play a very large scale on a grid.
+          "
+          - { PICS }
+          - Click "GRID", the last selected sample is now layered chromatically on the grid.
+        - - Keyboard
+          "Play on a piano keybord with velocity !
+          "
+          - { PICS }
+          - Click "KEYBORD", the last selected sample is now layered chromatically on classical piano keybord.
+        - - Note repeat
+          "Trigger your sample repeatedly with differents quantizations just holding it.
+          "
+          - { PICS }
+          - Click "NOTE REPEAT", the note repeat "fat pad" opens. You can now trigger repeatedly the selected sample with the quantizations displayed on the "fat pad".
+      - 5.4.3. Chose the scale
+        "Note : By default, the scale is pentatonic in Koala Sample, but he also got a swiss knife and lets you play the scale you love. 
+        The keybords will display only the good notes in the selected scale. 
+        Chosing the scale is only available in "GRID" and "KEYBORD" modes.
+        "
+        - { PICS }
+        - Click "SCALE" to open a drop-down menu.
+        - { PICS }
+        - Click the scale you want.
+          - Chromatic
+          - Pentatonic
+          - Major
+          - Minor
+          - Whole tone
+          - Diminished
+          - Hexatonic
+          - Japanese
+          - Pelog
+          - Ying zhong
+      - 5.4.4. Activate velocity
+        "Note : Velocity is only available in "KEYBOARD" and "NOTE REPEAT" modes."
+        - { PICS }
+        - To activate the velocity, click "VEL", all you're 
+      - 5.4.4. Exit
+        - { PICS }
+        - Click "KEYBOARD" again, the pictogram go back to normal apparence. You returned to the pads.
+      - 5.4.5. Pro Tips #protips
+        - To complete
+    - 5.5. Samuraï ops : Piano Roll #SAMURAÏ
+      - 5.5.1. Overview of the Piano Roll
+        - {PICS} UI presentation + description
+      - 5.5.2. Introduction Piano Roll
+        - The piano roll is basically an editor where you can write your pattern or correct it. 
+        - It consist of a grid representing your pads vertically (or your notes if you're in "KEYBOARD" mode) and the time horizontally (your bars and beats).
+        - The grid is generally called a step sequencer. It illustrate a 1/16 quantization, so 16 steps per BAR, but you can also place events anywhere you want.
+        - You can put your triggers in the grid and give them behaviors after.
+      - 5.5.3. Piano Roll - Step sequencer
+        - 1. Add / delete events in the step sequencer
+          - {PICS} 
+          - To add an event, simply click on the grid where you want your sample triggers. To help you, beats and steps divisions are displayed.
+          - Remember the columns represents the pads (or the notes in "KEYBORD" mode) and the rows represents the time (bars). 
+          - {PICS}
+          - To delete an event, just click on it.
+        - 2. Event field
+          - {PICS}
+          - In the EVENT field, you can choose what event you want to act on. 
+          - There are 3 types of event but 1st, you always need to place trigger events.
+            "Note : the selected pictogram appears with flashy blue background
+            "
+          - Event types
+            - Trigger - trigger a note
+            - Velocity - adjust velocity on a trigger
+            - Chance - add a triggering chance to a trigger
+        - 3. Snap to grid (Quantization)
+          "Snap grid is the quantization, the value you set here affect live recording.
+          "
+          - {PICS} 
+          - Select a quantization
+          - Click "SNAP" to open a drop-down menu, then select your quantization.
+          - {PICS} 
+          - Toggle ON "snap end" if you want the event lenght to be the same as the quantization when you record live.
+        - 4. Adjust the velocity
+          "Note : the pictogram appears with flashy blue background when selected.
+          "
+          - {PICS} 
+          - Click "VEL" in the event field, now you can slide the events to adjust velocity.
+        - 5. Determine a triggering chance
+          "Note : the pictogram appears with flashy blue background when selected."
+          - {PICS} 
+          - Click "CHANCE" in the event field, now you can slide the events to adjust the triggering chance between 0% and 100%.
+            "Note : chance is illustrated with a dice pictogram.
+            Note 2 : Yeah it's a kind of weird action putting an event in the grid and give it 0% chance to trig... Maybe a proof that koala's god himself isn't perfect.
+            "
+        - 6. Undo / Redo
+          "Note : The undo works the same as in pattern page.
+          "
+          - { PICS }
+          - Click "UNDO" or "REDO" to navigate the historic of actions in your pattern.
+            "Note : By doing that, you can listen to your pattern in different states."
+        - 7. Zoom in / out
+          - {PICS}
+          - Pinch with two fingers
+            "You know that move, don't you ?
+            "
+      - 5.5.4. Close the Piano Roll
+        - {PICS} funny cross
+        - Really ??? --> Click the cross in the upper right corner.
+    - [ UI ]
+      - // play
+      - // rec
+      - // bpm
+        - // +
+        - // -
+        - // tap
+        - // beat per bar (time signature)
+        - // quantize
+        - // swing
+      - // metronome
+      - // pattern
+        - // pattern navigation bank
+      - piano roll
+        - (())
+        - // play
+        - // rec
+        - (())
+        - // bars (pattern lenght)
+        - (())
+        - // triggering modes
+          - // grid mode
+          - // keybord mode
+          - // note repeat
+          - // scales
+          - // vel
+        - // writing modes
+          - // add event
+          - // adjust velocity
+          - // adjust chance
+        - // step sequencer
+        - // snap grid
+        - // undo
+        - // redo
+      - // triggering modes
+        - // grid mode
+        - // keybord mode
+        - // note repeat
+        - // scales
+        - // vel
+      - // undo
+      - // clear
+      - // bars (pattern lenght)
+      - // pads bank
+      - // pads
+      - // pads bank
+      - 
+      - // file picker
+  - 6. Perform
+    - 6.1. Introduction
+      "After all this trip in Koala sampler, your song just need the final touch. Here is the way.
+      "
+    - 6.2. Overview
+      - { PICS } UI description
+    - 6.3. Add effects
+      "A good way to embellish your song in adding effects, let's see how.
+      "
+      - Before adding effect, press "PLAY".
+      - { PICS }
+      - Hold and slide the effect you want to add
+      - { PICS }
+      - You can play multi fingers effects to give a unique and vibrant personality to your song.
+    - 6.4. Effects
+      "Koalas like eucalyptus for sure, but a few people know they also love vanilla and strawberry. The thing is when they eat that food, they go a bit crazy. Here is the list of damages theses can cause.
+      "
+      - Vanilla
+        - Crush
+        - Pitch
+        - Comb
+        - Ring
+        - Reverb
+        - Shutter
+        - Gate
+        - Filter
+      - Strawberry
+        - Cutter
+        - Reverse
+        - Dub
+        - Tempo delay
+        - Talkbox
+        - Vibroflange
+        - Dirty
+        - Compressor
+    - 6.5. Hold effects
+      "As soon as you release an effect, its value go back to 0. You can hold an effect and focus on other thing to modify while you're live playing.
+      "
+      - { PICS }
+      - Click "HOLD" to keep the last value you set.
+    - 6.6. Record a live song
+      "Note : record a live song and share it immediately ! 
+      Note 2 : this works in sequence page as well.
+      "
+      - { PICS }
+      - Click "MENU", then click "RECORD SONG".
+      - As soon as you click "PLAY", your recording starts.
+      - { PICS } { PICS } { PICS } illustrations.
+      - Play effect, change patterns or play pads live.
+      - { PICS }
+      - When you have finished, click "PLAY" to stop recording
+      - { PICS }
+      - Name your song and click "OK"
+    - // record song
+    - [ UI ]
+      - play
+      - rec
+      - bpm
+        - +
+        - -
+        - tap
+        - swing
+        - quantize
+      - metronome
+      - pattern
+      - piano roll
+      - pattern navigation
+      - fx triggers
+      - hold
+  - 7. Save-Load a project
+    - 7.1. Create a new project
+      - {PICS} 
+      - Click "MENU", then click "NEW"
+      - An empty project is now opened, start sampling !
+    - 7.2. Load a project
+      - {PICS}
+      - Click "MENU", then click "LOAD"
+      - The Koala Song window opens, you just need to choose which song to load.
+    - 7.3. Import Koala song
+      - {PICS}
+      - When you're in the Koala Songs window, click "IMPORT Song" to navigate the folders on your device.
+      - Choose any *.koala file to open it.
+    - 7.3. Save a project
+      - {PICS}
+      - Click "MENU", then click "SAVE"
+      - If your songs already has a name, there's no other action needed. Otherwise you need to give it a name before saving.
+      - {PICS}
+      - Click "MENU", then click "SAVE AS"
+      - Name your song and click "Ok"
+    - // new
+    - // load
+    - // save
+    - // save as
+  - 8. Sharing & Connectivity
+    - 8.1. Exports
+      - 1. Export a sample
+      - 2. Export pattern
+      - 3. Export patterns
+    - 8.2. Share a Koala project
+    - 8.3. MIDI
+    - 8.4 Synchronisation
+      - MIDI
+      - Pocket Operator
+      - Modular synth
+    - // MIDI
+      - // Ableton link
+      - // Enable midi velocity
+      - // Use MIDI mapping
+      - // Bluetooth MIDI
+      - // MIDI can select pads
+      - // MIDI can record pads
+      - // External MIDI clock sync
+  - 9. Settings
+    - 9.1. General
+      - 1. One shot enabled by default
+        "Set how will new samples be played, one shot or not, here we go !
+        "
+        - { PICS }
+        - Toggle to enable or disable it. 
+        - You can reconfigure each individual pad later in your sample edits.
+      - 2. Hold to record
+        - { PICS }
+        - Toggle to enable or disable it.
+        - When this is OFF, you need to hold pad to sample.
+      - 3. Count in
+        "Pre-count beats before the recording, this is useful when you want to start recording on the first beat of your bars.
+        "
+        - { PICS }
+        - Click 'COUNT IN", then choose between : NONE, 1 BAR or 2 BARS
+      - 4. Pitch knob snap to semitone
+        - { PICS }
+        - Toggle to enable or disable it
+      - 5. Warn before delete samples and sequences
+        - { PICS }
+        - Toggle to enable or disable it.
+        - When this in OFF, you can adjust precisely the pitch of your sample. A good way to tune your samples.
+    - 9.2. Audio
+      - 1. Input source (USB only)
+        - { PICS }
+        - Click the channel you want to use as source. 
+        - This works only with USB sound interface.
+      - 2. Background audio
+        - { PICS }
+        - Toggle to enable or disable it. 
+      - 3. Inter-App audio sync
+        - { PICS }
+        - Toggle to enable or disable it. 
+      - 4. Pocket Operator sync out
+        - { PICS }
+        - Toggle to enable or disable it. 
+      - 5. Metronome volume
+        - { PICS }
+        - Click or Slide the button to adjust metronome volume
+      - 6. I/O
+        - Displays information about Koala's INs and OUTs.
+      - 7. Auto trim on record
+        - { PICS }
+        - Toggle to enable or disable it. 
+    - 9.3. MIDI
+      - 1. Enable midi velocity
+        - { PICS }
+        - Toggle to enable or disable it. 
+      - 2. Use MIDI mapping
+        - { PICS }
+        - Toggle to enable or disable it. 
+        - { PICS }
+        - Click "Map MIDI"
+        - { PICS }
+        - Connect a midi device, then start mapping.
+        - { PICS }
+        - When you've done, click "STOP MAPPING"
+      - 3. Ableton link
+        - { PICS }
+        - Click "Ableton Link", a window pops.
+        - { PICS }
+        - Toggle ON Ableton Link.
+      - 4. Bluetooth MIDI
+        - { PICS }
+        - Click "BLUETOOTH MIDI" and select your device in the list
+        - If the list doesn't show your device, check the bluetooth configuration on your device.
+      - 5. MIDI can select pads
+        - { PICS }
+        - Toggle to enable or disable it. 
+      - 6. MIDI can record pads
+        - { PICS }
+        - Toggle to enable or disable it. 
+      - 7. External MIDI clock sync
+        - { PICS }
+        - Toggle to enable or disable it. 
+    - 9.4. Extras
+      - 1. Show mute/solo
+        - { PICS }
+        - Toggle to enable or disable it. 
+      - 2. Background
+        - { PICS }
+        - Click "CHOOSE" and select a background image in your gallery.
+      - 3. Export bit depth
+        "By default the bit depht is the same as your device.
+        "
+        - { PICS }
+        - Choose 16 or 24 bits
+      - 4. Koala version
+        - Displays informations about Koala Version
+      - 5. Stem splitter neural network
+        - { PICS }
+        - Click "CHOOSE" and select a background image in your gallery.
+    - settings
+      - // general
+        - // one shot enabled by default
+        - // hold to record
+        - // count in
+        - // pitch knob snap to semitone
+        - // Warn before delete samples and sequences
+      - // audio
+        - // Input source (USB only)
+        - // Background audio
+        - // Inter-App audio sync
+        - // Pocket Operator sync out
+        - // Metronome volume
+        - // I/O
+        - // Auto trim on record
+      - // MIDI
+        - // Ableton link
+        - // Enable midi velocity
+        - // Use MIDI mapping
+        - // Bluetooth MIDI
+        - // MIDI can select pads
+        - // MIDI can record pads
+        - // External MIDI clock sync
+      - extras
+        - Show mute/solo
+        - Background
+        - Export bit depth
+        - Koala version
+        - Stem splitter neural network
+  - 10. Structure
+    - Illustration of soundpath in Koala
+    - Structure of projects
+      - What is a koala song ?
+  - 11. Specifications
+    - Sampler
+      "Record up to 64 different samples with your mic"
+      - Adjust trim, pan, pitch and volume of your samples
+      - Built-in MIC FX
+        - More Bass
+        - More Treble
+        - Fuzz
+        - Robot
+        - Reverb
+        - Octave up
+        - Octave down
+        - Synthesizer
+      - Import your own audio files, many formats supported
+      - Export sets as Ableton Live Sets (iOS only)
+      - Time stretch #SAMURAÏ
+        "3 Unique algorithms to stretch your samples so they fit perfectly with your song’s BPM, and change pitch independently of time. 
+        “MODERN” algorithm sounds buttery smooth, 
+        “RETRO” emulates classic sampler granular timestretch, 
+        “BEATS” uses transients in your sample to make chops and loops to extend or shorten your sample
+        "
+        - 
+      - Auto-chop #SAMURAÏ
+        "Slices your beats automatically, auto (threshold based), manual and the classic lazy chop."
+        - 
+    - Sequencer
+      "Record up to 32 pattern - almost unilimited lenght"
+      - Create beats with the high-resolution sequencer
+      - Copy/paste or merge sequences just by dragging them
+      - Keyboard grid mode lets you play chromatically or one of 9 scales
+      - Quantize, add swing to get the right feel
+      - Piano roll #SAMURAÏ
+        "Edit your sequences on a grid, change pitch and velocity, also useful functions like copy/paste, reverse, stretch and legato are built-in."
+    - Effects
+      "Add any (or all) of the 16 effects to the entire mix"
+      - Built-in MIX FX
+        - Bit-crusher
+        - Pitch-shift
+        - Comb filter
+        - Ring modulator
+        - Reverb
+        - Stutter
+        - Gate
+        - Resonant High/Low Pass Filters
+        - Cutter
+        - Reverse
+        - Dub Delay
+        - Tempo Delay
+        - Talkbox formant filter
+        - Vibrato/Flanger
+        - Dirty distortion
+        - Compressor
+    - Sharing & Connectivity
+      - Export loops or entire tracks as professional quality WAV files
+      - MIDI controllable
+      - Jam with others over WiFi with Ableton Link (coming soon to Android)
+      - AudioBus 3.0 compatible (iOS only)
+  - UI (Menu)
+    - // new
+    - // load
+    - // save
+    - // save as
+    - // record song
+    - // resample loop
+    - export
+    - // Import audio
+    - // Import video
+    - settings
+      - // general
+        - // one shot enabled by default
+        - // hold to record
+        - // count in
+        - // pitch knob snap to semitone
+        - // Warn before delete samples and sequences
+      - // audio
+        - // Input source (USB only)
+        - // Background audio
+        - // Inter-App audio sync
+        - // Pocket Operator sync out
+        - // Metronome volume
+        - // I/O
+        - // Auto trim on record
+      - // MIDI
+        - // Ableton link
+        - // Enable midi velocity
+        - // Use MIDI mapping
+        - // Bluetooth MIDI
+        - // MIDI can select pads
+        - // MIDI can record pads
+        - // External MIDI clock sync
+      - extras
+        - Show mute/solo
+        - Background
+        - Export bit depth
+        - Koala version
+        - Stem splitter neural network
+    - help
+    - get live lite
+- Questions :
+  "This is where to note questions, 1st thing to ask yourself before adding a question : Is this question useful to improve the manual ? Yes, go ahead.
+  "
+  - General questions asked on the web (in the US)
+    - "koala sampler"-en-us-suggestions-2022-09-20t16_19_43z.csv
+    - 
+    - 
+  - General Question topic 1
+    "where to put and group questions"
+    - Question 1 - topic 1
+    - Question 2 - topic 1
+    - Question 3 - topic 1
+  - General Question topic 2 
+    - Question 1 - topic 2
+    - Question 2 - topic 2
+    - Question 3 - topic 2
+- Ideas :
+  "This is where you can put ideas about koala's features.
+  Put a + before the title if you think it's not crucial."
+  - Listing of good ressources in the manual
+    "if the manual is on the web - MAREK SAYS: There will be a link to the manual directly from koala - or at least the HELP item in the menu will take you to a page with a link to it.
+    	* 
+    "
+  - Adding pro tips in the manual
+    - Premium feature
+    - How to do it ?
+    - Who
+  - Reorder the pad in Landscape mode (the logic changes between portrait and landscape)
+    "Causing finger drumming problems -
+    	
+    "
+    - MAREK SAYS: I agree, I tried to sort it out but kind of broke it again - its on my todo list
+  - + Adding pattern lenght in BPM popup to group it with beat per bars -
+    - MAREK SAYS: I think this would make it too hidden - its better where it is
+    - Q says: Not necessary to remove it from the general interface.
+  - + Adding the setting value anywhere the user has to slide in the UI
+    "Helping to understand what we do and doing better settings.
+    "
+    - MAREK SAYS: you mean making the settings easier to get to by a gesture? It's a possibility, just not sure how useful it would be
+    - Q says: Yes, if you want to set the same filter on differents samples, knowing the value would be helpful.
+  - + Adding a 440hz signal in SAMPLE, available both in monitoring and in editing: -
+    "Helping tuning the sample or record in tunes (singing)
+    "
+    - MAREK SAYS: this would be cool but not sure how to put it in the UI without getting in the way.
+    - Q says : I’ll think about that 😁
+  - When naming a song (after recording a live song) --> display the name of current Koala song
+    - MAREK SAYS: I'm not sure what this means exactly
+    - Q says : If I use « record song », when I finished, before exporting, I have to name the song. If i don’t remember the name of my koala song, I have to put a random name. Displaying the name is just a reminder.
+  - + Add scales in keybord mode
+    - Dorian minor
+    - Arabic 1/4 tones ?
+  - + Time shift mode in piano roll
+    "earlier or later / randomly
+    ex : mooving betwwen 0 and the +/- value.
+    "
+  - 
+- Missing functions
+  "Missing explanation in the manual, put it here until we find it a home
+  "
+  - Slide a pad to the trash
+  - Telling the basics, like "when a funtion is selected, there's a flashy blue background
+  - 
+- UI :
+  - 
+- Other
